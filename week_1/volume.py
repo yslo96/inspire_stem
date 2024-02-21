@@ -3,15 +3,19 @@
 #name:Lawrence Mwariri
 import math
 
+#The volume of a sphere
+
 r = float(input("Enter the radius : "))
 
 v = (4/3)*(math.pi)*r**3
 
 print("The volume of a sphere :",v)
 
-r2 = float(input("Enter the radius : "))
+#The volume of cylinder
+
+r = float(input("Enter the radius : "))
 h = float(input("Enter the height : "))
 
-v2 = (math.pi)*r**2*h
+v = (math.pi)*r**2*h
 
-print("The volume of cylinder:",v2)
+print("The volume of cylinder:",v)
