@@ -1,0 +1,7 @@
+print("My name is Lawrence Mwariri")
+print("I am 17 years old")
+print("I come from Nyeri County")
+print("I love sleeping and watching movies")
+print("---------------")
+print("***************")
+print("###############")
