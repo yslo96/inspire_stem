@@ -6,13 +6,13 @@ city = "nairobi"
 
 #convert to uppercase
 
-print(city[-1])
-print(city[-2])
-print(city[-3])
-print(city[-4])
-print(city[-5])
-print(city[-6])
-print(city[-7])
+print(city[0])
+print(city[1])
+print(city[2])
+print(city[3])
+print(city[4])
+print(city[5])
+print(city[6])
 
 print("\n")# prints a new line
 print(city.upper())
