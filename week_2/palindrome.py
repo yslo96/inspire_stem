@@ -9,3 +9,10 @@ rw = (" ")
 for y in w:
     rw= y + rw
     print("The reversed word of",w,"is",rw)
+
+P = rw
+
+if w == P :
+    print("The word is a palindrome")
+else :
+    print("The word is not a palindrome")

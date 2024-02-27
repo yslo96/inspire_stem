@@ -9,3 +9,9 @@ for y in range(1,n+1):
     f =f * y
     n = y
     print("The factorial of",n,"is",f)
+
+for x in range(0,20,2):
+    print(x)
+
+for x in range(1,20,2):
+    print(x)
