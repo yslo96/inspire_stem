@@ -4,10 +4,10 @@
 
 salary = int(input("Enter employee's salary : "))
 
-if salary > 150000 :
+if salary >= 150000 :
     salary = salary * 1.1
     print(salary)
-elif salary > 100000 and salary <= 150000 :
+elif salary > 100000 and salary < 150000 :
     salary = salary * 1.15
     print(salary)
 else :
