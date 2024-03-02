@@ -1,11 +1,10 @@
+#This is a program to print odd and even numbers
+#Date : 01/03/2024
+#Name : Lawrence Mwariri
+
 number = int(input("Enter the number : "))
 
 if number % 2 :
     print("Odd number ")
 else :
     print("Even number ")
-
-function to print all prime no btwn 1-100
-function to calculate sa of cylinder ,cone,cube,sphere
-function to calculate their volumes
-function to print squares and cubes of no btwn 1-100

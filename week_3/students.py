@@ -1,4 +1,6 @@
-
+#This is a program to show student's information
+#Date : 01/03/2024
+#Name : Lawrence Mwariri
 
 def print_name(name):
     print("My name is {0}".format(name))
